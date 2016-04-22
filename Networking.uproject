@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 {
 	"FileVersion": 3,
 	"EngineAssociation": "4.10",
 	"Category": "",
 	"Description": ""
+=======
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.10",
+	"Category": "",
+	"Description": ""
+>>>>>>> origin/master
 }
